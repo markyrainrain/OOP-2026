@@ -2,14 +2,14 @@
 Place
 
 # properties
-Province
+Province<br>
 Tourist Spot
 
 # Object 1 
-Bicol
+Bicol<br>
 Mayon Volcano
 
 # Object 2 
-La Union
+La Union<br>
 SJ Surfing Capital
 
